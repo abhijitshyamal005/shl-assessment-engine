@@ -1,13 +1,13 @@
 import { AssessmentRecommender } from '../../../lib/recommender';
 import { Evaluator } from '../../../lib/evaluator';
-import xlsx from 'xlsx';
+import { readFile, utils } from 'xlsx';
 import fs from 'fs';
 
 export async function POST(req) {
   try {
-    const workbook = xlsx.readFile('./data/train_data.xlsx');
+    const workbook = readFile('./data/train_data.xlsx');
     const sheetName = workbook.SheetNames[0];
-    const trainData = xlsx.utils.sheet_to_json(workbook.Sheets[sheetName]);
+    const trainData = utils.sheet_to_json(workbook.Sheets[sheetName]);
 
     const recommender = new AssessmentRecommender(process.env.GEMINI_API_KEY);
     await recommender.initialize();
