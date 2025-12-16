@@ -1,0 +1,1278 @@
+[
+  {
+    "id": 0,
+    "assessment": {
+      "assessment_name": "Occupational Personality Questionnaire (OPQ)",
+      "assessment_url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "P",
+      "combined_text": "Occupational Personality Questionnaire (OPQ)"
+    },
+    "embedding": [
+      0.3408177700062397,
+      0.24952729589742548,
+      0.16432285339586555,
+      0.2434412642901712,
+      0.33473173839898535,
+      0.14606475857410273,
+      0.28604348554095116,
+      0.2982155487554597,
+      0.21909713786115406,
+      0.3286457067917311,
+      0.28604348554095116,
+      0.20083904303939124,
+      0.13997872696684846,
+      0.2495272958974255,
+      0.1217206321450856,
+      0.23735523268291692
+    ]
+  },
+  {
+    "id": 1,
+    "assessment": {
+      "assessment_name": "Job-Focused Assessments (JFA)",
+      "assessment_url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Job-Focused Assessments (JFA)"
+    },
+    "embedding": [
+      0.33666666828463415,
+      0.39607843327604025,
+      0.20794117746992108,
+      0.21784313830182211,
+      0.2475490207975251,
+      0.40598039410794123,
+      0.27725490329322816,
+      0.2475490207975251,
+      0.30696078578893116,
+      0.1980392166380201,
+      0.1485294124785151,
+      0.03960784332760402,
+      0.12872549081471304,
+      0.21784313830182211,
+      0.21784313830182211,
+      0.07921568665520803
+    ]
+  },
+  {
+    "id": 2,
+    "assessment": {
+      "assessment_name": "Motivational Questionnaire (MQ)",
+      "assessment_url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "P",
+      "combined_text": "Motivational Questionnaire (MQ)"
+    },
+    "embedding": [
+      0.3088485105235573,
+      0.3422375386882662,
+      0.29215399644120277,
+      0.2504177112353167,
+      0.35058479572944334,
+      0.17529239786472167,
+      0.22537594011178502,
+      0.20033416898825335,
+      0.32554302460591167,
+      0.20868142602943054,
+      0.04173628520588611,
+      0.20033416898825335,
+      0.13355611265883555,
+      0.31719576756473444,
+      0.28380673940002554,
+      0.06677805632941777
+    ]
+  },
+  {
+    "id": 3,
+    "assessment": {
+      "assessment_name": "Situational Judgment Tests (SJT)",
+      "assessment_url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Situational Judgment Tests (SJT)"
+    },
+    "embedding": [
+      0.2935583547044258,
+      0.15868019173212206,
+      0.3173603834642441,
+      0.3728984505704869,
+      0.039670047933030514,
+      0.3570304313972747,
+      0.15868019173212206,
+      0.31736038346424417,
+      0.3173603834642441,
+      0.2062842492517587,
+      0.12694415338569764,
+      0.07934009586606104,
+      0.2618223163580014,
+      0.2856243451178197,
+      0.23008627801157702,
+      0.15868019173212206
+    ]
+  },
+  {
+    "id": 4,
+    "assessment": {
+      "assessment_name": "Assessments",
+      "assessment_url": "https://www.shl.com/products/assessments/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Assessments"
+    },
+    "embedding": [
+      0.04978610265552022,
+      0.36509808614048167,
+      0.36509808614048167,
+      0.1327629404147206,
+      0.36509808614048167,
+      0.36509808614048167,
+      0.2655258808294412,
+      0.1327629404147206,
+      0.2821212483812812,
+      0.3816934536923217,
+      0.36509808614048167,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "assessment": {
+      "assessment_name": "Behavioral Assessments",
+      "assessment_url": "https://www.shl.com/products/assessments/behavioral-assessments/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "P",
+      "combined_text": "Behavioral Assessments"
+    },
+    "embedding": [
+      0.2898566935726155,
+      0.26756002483626046,
+      0.21181835299537285,
+      0.23411502173172788,
+      0.5351200496725209,
+      0.3790433685180356,
+      0.20067001862719536,
+      0.23411502173172788,
+      0.044593337472710076,
+      0.16722501552266278,
+      0.011148334368177519,
+      0.03344500310453256,
+      0.24526335609990543,
+      0.24526335609990543,
+      0.08918667494542015,
+      0.24526335609990543
+    ]
+  },
+  {
+    "id": 6,
+    "assessment": {
+      "assessment_name": "Cognitive Assessments",
+      "assessment_url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Cognitive Assessments"
+    },
+    "embedding": [
+      0.2351695992391885,
+      0.29116236096280484,
+      0.30236091330752807,
+      0.4479420937889305,
+      0.3807507797205909,
+      0.25756670392863507,
+      0.13438262813667914,
+      0.27996380861808157,
+      0.0895884187577861,
+      0.011198552344723263,
+      0.033595657034169786,
+      0.2463681515839118,
+      0.2463681515839118,
+      0.0895884187577861,
+      0.2463681515839118,
+      0.2463681515839118
+    ]
+  },
+  {
+    "id": 7,
+    "assessment": {
+      "assessment_name": "Personality Assessments",
+      "assessment_url": "https://www.shl.com/products/assessments/personality-assessment/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "P",
+      "combined_text": "Personality Assessments"
+    },
+    "embedding": [
+      0.38148909236945566,
+      0.2861168192770917,
+      0.3528774104417464,
+      0.2861168192770917,
+      0.33380295582327363,
+      0.3814890923694556,
+      0.24796791004014618,
+      0.14305840963854585,
+      0.11444672771083668,
+      0.219356228112437,
+      0.2670423646586189,
+      0.00953722730923639,
+      0.02861168192770917,
+      0.2098190008032006,
+      0.2098190008032006,
+      0.07629781847389112
+    ]
+  },
+  {
+    "id": 8,
+    "assessment": {
+      "assessment_name": "Video Interviews",
+      "assessment_url": "https://www.shl.com/products/video-interviews/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Video Interviews"
+    },
+    "embedding": [
+      0.3540531672879006,
+      0.1770265836439503,
+      0.10326550712563767,
+      0.1180177224293002,
+      0.26553987546592545,
+      0.014752215303662525,
+      0.16227436834028777,
+      0.2507876601622629,
+      0.33930095198423804,
+      0.1180177224293002,
+      0.309796521376913,
+      0.3688053825915631,
+      0.1770265836439503,
+      0.1180177224293002,
+      0.38355759789522564,
+      0.32454873668057554
+    ]
+  },
+  {
+    "id": 9,
+    "assessment": {
+      "assessment_name": "Skills & Simulations",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Skills & Simulations"
+    },
+    "embedding": [
+      0.3870318754666535,
+      0.37530363681614887,
+      0.3401189208646349,
+      0.4339448300686722,
+      0.1759235797575698,
+      0.2580212503111024,
+      0.011728238650504652,
+      0.08209767055353256,
+      0.011728238650504652,
+      0.2462930116605977,
+      0.14073886380605583,
+      0.18765181840807443,
+      0.28147772761211165,
+      0.1759235797575698,
+      0.04691295460201861,
+      0.269749488961607
+    ]
+  },
+  {
+    "id": 10,
+    "assessment": {
+      "assessment_name": "Call Center Simulations",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Call Center Simulations"
+    },
+    "embedding": [
+      0.23697281278009807,
+      0.09478912511203923,
+      0.45024834428218635,
+      0.3199132972531324,
+      0.22512417214109318,
+      0.26067009405810787,
+      0.3554592191701471,
+      0.20142689086308335,
+      0.2725187346971128,
+      0.09478912511203923,
+      0.24882145341910294,
+      0.011848640639004903,
+      0.24882145341910294,
+      0.14218368766805883,
+      0.18957825022407845,
+      0.28436737533611767
+    ]
+  },
+  {
+    "id": 11,
+    "assessment": {
+      "assessment_name": "Business Skills",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Business Skills"
+    },
+    "embedding": [
+      0.06130673198289371,
+      0.3678403918973623,
+      0.3371870259059154,
+      0.18392019594868114,
+      0.26055361092729823,
+      0.12261346396578741,
+      0.3371870259059154,
+      0.3371870259059154,
+      0.015326682995723427,
+      0.32186034291019194,
+      0.214573561940128,
+      0.18392019594868114,
+      0.22990024493585143,
+      0.22990024493585143,
+      0.3371870259059154,
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "assessment": {
+      "assessment_name": "Coding Simulations",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Coding Simulations"
+    },
+    "embedding": [
+      0.30156799302252413,
+      0.548305441859135,
+      0.0959534523253486,
+      0.16449163255774046,
+      0.2330298127901323,
+      0.13707636046478372,
+      0.013707636046478372,
+      0.2878603569760458,
+      0.16449163255774046,
+      0.21932217674365395,
+      0.3289832651154809,
+      0.20561454069717558,
+      0.05483054418591349,
+      0.3152756290690026,
+      0.16449163255774046,
+      0.24673744883661072
+    ]
+  },
+  {
+    "id": 13,
+    "assessment": {
+      "assessment_name": "Technical Skills",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Technical Skills"
+    },
+    "embedding": [
+      0.3931707011661848,
+      0.1429711640604308,
+      0.10722837304532312,
+      0.1965853505830924,
+      0.30381372362841547,
+      0.21445674609064624,
+      0.10722837304532312,
+      0.0714855820302154,
+      0.26807093261330783,
+      0.01787139550755385,
+      0.3752993056586309,
+      0.25019953710575393,
+      0.21445674609064624,
+      0.26807093261330783,
+      0.26807093261330783,
+      0.3931707011661848
+    ]
+  },
+  {
+    "id": 14,
+    "assessment": {
+      "assessment_name": "Language Evaluation",
+      "assessment_url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Language Evaluation"
+    },
+    "embedding": [
+      0.3602435131272178,
+      0.304821434184569,
+      0.47108767101251564,
+      0.13855519735662225,
+      0.3325324736558934,
+      0.055422078942648896,
+      0.13855519735662225,
+      0.11084415788529779,
+      0.013855519735662224,
+      0.09698863814963557,
+      0.3463879933915556,
+      0.055422078942648896,
+      0.20783279603493338,
+      0.3325324736558934,
+      0.055422078942648896,
+      0.3186769539202312
+    ]
+  },
+  {
+    "id": 15,
+    "assessment": {
+      "assessment_name": "View all SHL Products\n\n\n    \n    Get the ultimate view of potential with SHL’s unmatched portfolio of assessments and interview technology.",
+      "assessment_url": "https://www.shl.com/products/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "View all SHL Products\n\n\n    \n    Get the ultimate view of potential with SHL’s unmatched portfolio of assessments and interview technology."
+    },
+    "embedding": [
+      0.27901724764259667,
+      0.2059413018314404,
+      0.17051054022603127,
+      0.3410210804520626,
+      0.21479899223279267,
+      0.23472879563583532,
+      0.2192278374334688,
+      0.27901724764259667,
+      0.15279515942332675,
+      0.29008936064428703,
+      0.29008936064428703,
+      0.30559031884665355,
+      0.2192278374334688,
+      0.1992980340304262,
+      0.23251437303549724,
+      0.2834460928432728
+    ]
+  },
+  {
+    "id": 16,
+    "assessment": {
+      "assessment_name": "SHL Certification (OPQ/Verify)",
+      "assessment_url": "https://www.shl.com/solutions/services/training-services/personality-and-ability-assessment-training/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "SHL Certification (OPQ/Verify)"
+    },
+    "embedding": [
+      0.3478197123206509,
+      0.10068465356650423,
+      0.2105224574572361,
+      0.1647567058360978,
+      0.2105224574572361,
+      0.24713505875414674,
+      0.33866656199642325,
+      0.43019806523869986,
+      0.18306300648455312,
+      0.2745945097268297,
+      0.21967560778146375,
+      0.13729725486341485,
+      0.292900810375285,
+      0.3020539606995126,
+      0.10983780389073187,
+      0.16475670583609783
+    ]
+  },
+  {
+    "id": 17,
+    "assessment": {
+      "assessment_name": "Outsourced Assessments (VADC)",
+      "assessment_url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Outsourced Assessments (VADC)"
+    },
+    "embedding": [
+      0.33688354635158063,
+      0.34552158600162114,
+      0.2677792291512564,
+      0.33688354635158063,
+      0.3541596256516617,
+      0.39734982390186435,
+      0.1900368723008916,
+      0.12957059475060795,
+      0.2764172688012969,
+      0.08638039650040528,
+      0.0604662775502837,
+      0.06910431720032423,
+      0.2764172688012969,
+      0.19003687230089164,
+      0.06910431720032423,
+      0.19003687230089164
+    ]
+  },
+  {
+    "id": 18,
+    "assessment": {
+      "assessment_name": "View Product Catalog",
+      "assessment_url": "https://www.shl.com/products/product-catalog/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "View Product Catalog"
+    },
+    "embedding": [
+      0.3517632353407242,
+      0.33920026264998404,
+      0.3266372899592439,
+      0.45226701686664544,
+      0.01256297269074015,
+      0.22613350843332272,
+      0.26382242650554316,
+      0.22613350843332272,
+      0.08794080883518104,
+      0.30151134457776363,
+      0.07537783614444091,
+      0.2889483718870235,
+      0.01256297269074015,
+      0.06281486345370076,
+      0.0502518907629606,
+      0.2889483718870235
+    ]
+  },
+  {
+    "id": 19,
+    "assessment": {
+      "assessment_name": "Account Manager Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Account Manager Solution"
+    },
+    "embedding": [
+      0.24540954937812096,
+      0.24540954937812096,
+      0.21473335570585586,
+      0.4294667114117117,
+      0.48059370086548686,
+      0.2965365388318961,
+      0.41924131352095667,
+      0.18405716203359068,
+      0.1533809683613256,
+      0.04090159156302016,
+      0.17383176414283566,
+      0.04090159156302016,
+      0.10225397890755039,
+      0.08180318312604032,
+      0.2147333557058558,
+      0.01022539789075504
+    ]
+  },
+  {
+    "id": 20,
+    "assessment": {
+      "assessment_name": "Administrative Professional - Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Administrative Professional - Short Form"
+    },
+    "embedding": [
+      0.27190304469917337,
+      0.29779857276576127,
+      0.3107463367990552,
+      0.13595152234958666,
+      0.3042724547824082,
+      0.3366418648656431,
+      0.3560635109155841,
+      0.3690112749488781,
+      0.24600751663258535,
+      0.05179105613317587,
+      0.24600751663258538,
+      0.08416046621641078,
+      0.25248139864923236,
+      0.05826493814982285,
+      0.14242540436623363,
+      0.18774257848276255
+    ]
+  },
+  {
+    "id": 21,
+    "assessment": {
+      "assessment_name": "Agency Manager Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Agency Manager Solution"
+    },
+    "embedding": [
+      0.23410047455293168,
+      0.27869104113444243,
+      0.3567245326520863,
+      0.4459056658151079,
+      0.20065754961679852,
+      0.5127915156873741,
+      0.20065754961679852,
+      0.16721462468066547,
+      0.04459056658151079,
+      0.18950990797142084,
+      0.04459056658151079,
+      0.11147641645377697,
+      0.08918113316302158,
+      0.23410047455293162,
+      0.011147641645377697,
+      0.23410047455293162
+    ]
+  },
+  {
+    "id": 22,
+    "assessment": {
+      "assessment_name": "Apprentice + 8.0 Job Focused Assessment",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Apprentice + 8.0 Job Focused Assessment"
+    },
+    "embedding": [
+      0.08362623157682791,
+      0.36934918946432327,
+      0.4111623052527372,
+      0.29269181051889764,
+      0.11847049473383953,
+      0.29269181051889764,
+      0.44600656840974884,
+      0.12543934736524184,
+      0.20906557894206979,
+      0.20906557894206979,
+      0.06271967368262092,
+      0.1324081999966442,
+      0.013937705262804651,
+      0.19512787367926512,
+      0.2578475473618861,
+      0.2717852526246907
+    ]
+  },
+  {
+    "id": 23,
+    "assessment": {
+      "assessment_name": "Apprentice 8.0 Job Focused Assessment",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Apprentice 8.0 Job Focused Assessment"
+    },
+    "embedding": [
+      0.3206812825584225,
+      0.2983081698217883,
+      0.20881571887525183,
+      0.3430543952950566,
+      0.3654275080316907,
+      0.1715271976475283,
+      0.3505120995406013,
+      0.2535619443485201,
+      0.10440785943762591,
+      0.11186556368317063,
+      0.014915408491089417,
+      0.20881571887525183,
+      0.2759350570851542,
+      0.2908504655762436,
+      0.06711933820990237,
+      0.2535619443485201
+    ]
+  },
+  {
+    "id": 24,
+    "assessment": {
+      "assessment_name": "Bank Administrative Assistant - Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Bank Administrative Assistant - Short Form"
+    },
+    "embedding": [
+      0.24698520857274162,
+      0.26701103629485584,
+      0.28703686401697004,
+      0.24030993266537024,
+      0.1802324494990277,
+      0.17355717359165632,
+      0.24698520857274167,
+      0.30706269173908424,
+      0.3671401749054267,
+      0.37381545081279816,
+      0.10680441451794234,
+      0.26033576038748446,
+      0.30706269173908424,
+      0.1468560699621707,
+      0.12015496633268512,
+      0.1602066217769135
+    ]
+  },
+  {
+    "id": 25,
+    "assessment": {
+      "assessment_name": "Bank Collections Agent - Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Bank Collections Agent - Short Form"
+    },
+    "embedding": [
+      0.2015915776264763,
+      0.24541583363223202,
+      0.37688860164949917,
+      0.19282672642532517,
+      0.15776732162072057,
+      0.24541583363223202,
+      0.16653217282187174,
+      0.2541806848333832,
+      0.1402376192184183,
+      0.2541806848333832,
+      0.14900247041956943,
+      0.35935889924719694,
+      0.28924008963798775,
+      0.35935889924719694,
+      0.15776732162072057,
+      0.2629455360345343
+    ]
+  },
+  {
+    "id": 26,
+    "assessment": {
+      "assessment_name": "Bank Operations Supervisor - Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Bank Operations Supervisor - Short Form"
+    },
+    "embedding": [
+      0.30792143708632114,
+      0.3413911585087473,
+      0.2476759385259539,
+      0.20081832853455728,
+      0.26775777137940965,
+      0.4217184899225702,
+      0.31461538137080636,
+      0.20081832853455728,
+      0.2610638270949244,
+      0.16734860711213104,
+      0.1606546628276458,
+      0.17404255139661629,
+      0.1271849414052196,
+      0.25436988281043915,
+      0.22090016138801297,
+      0.1271849414052196
+    ]
+  },
+  {
+    "id": 27,
+    "assessment": {
+      "assessment_name": "Bilingual Spanish Reservation Agent Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Bilingual Spanish Reservation Agent Solution"
+    },
+    "embedding": [
+      0.13963778111679875,
+      0.1821362362393027,
+      0.3521300567293186,
+      0.12749536536751188,
+      0.36427247247860545,
+      0.21856348348716323,
+      0.36427247247860545,
+      0.32177401735610145,
+      0.2549907307350238,
+      0.21856348348716323,
+      0.3096316016068146,
+      0.3278452252307449,
+      0.12749536536751188,
+      0.10928174174358161,
+      0.09106811811965136,
+      0.19427865198858957
+    ]
+  },
+  {
+    "id": 28,
+    "assessment": {
+      "assessment_name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Bookkeeping, Accounting, Auditing Clerk Short Form"
+    },
+    "embedding": [
+      0.32336917121331865,
+      0.3599770019167133,
+      0.24405220468929714,
+      0.3172678660960863,
+      0.20744437398590254,
+      0.28066003539269174,
+      0.1952417637514377,
+      0.20134306886867012,
+      0.20744437398590254,
+      0.18914045863420528,
+      0.31726786609608626,
+      0.25015350980652956,
+      0.2196469842203674,
+      0.16473523816527558,
+      0.15863393304804313,
+      0.2501535098065296
+    ]
+  },
+  {
+    "id": 29,
+    "assessment": {
+      "assessment_name": "Branch Manager - Short Form",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Branch Manager - Short Form"
+    },
+    "embedding": [
+      0.05333959221269542,
+      0.4480525745866415,
+      0.16001877663808628,
+      0.3733771454888679,
+      0.28803379794855527,
+      0.36270922704632885,
+      0.021335836885078167,
+      0.24536212417839895,
+      0.23469420573585986,
+      0.40538090081648515,
+      0.2133583688507817,
+      0.10667918442539084,
+      0.08534334754031267,
+      0.22402628729332075,
+      0.010667918442539084,
+      0.14935085819554716
+    ]
+  },
+  {
+    "id": 30,
+    "assessment": {
+      "assessment_name": "Cashier Solution",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Cashier Solution"
+    },
+    "embedding": [
+      0.0776337617555671,
+      0.062107009404453684,
+      0.3415885517244953,
+      0.17079427586224766,
+      0.18632102821336105,
+      0.12421401880890737,
+      0.32606179937338187,
+      0.015526752351113421,
+      0.32606179937338187,
+      0.27948154232004163,
+      0.23290128526670134,
+      0.3726420564267221,
+      0.3571153040756087,
+      0.18632102821336105,
+      0.27948154232004163,
+      0.2639547899689281
+    ]
+  },
+  {
+    "id": 31,
+    "assessment": {
+      "assessment_name": "Global Skills Development Report",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "K",
+      "combined_text": "Global Skills Development Report"
+    },
+    "embedding": [
+      0.2943529881060416,
+      0.1991211390129105,
+      0.2856955472793933,
+      0.1991211390129105,
+      0.1991211390129105,
+      0.26838066562609675,
+      0.07791696743983453,
+      0.32898275141263467,
+      0.32032531058598646,
+      0.11254673074642767,
+      0.30301042893268987,
+      0.1991211390129105,
+      0.35495507389257963,
+      0.16449137570631736,
+      0.2337509023195036,
+      0.26838066562609675
+    ]
+  },
+  {
+    "id": 32,
+    "assessment": {
+      "assessment_name": ".NET Framework 4.5",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET Framework 4.5"
+    },
+    "embedding": [
+      0.3939872332694338,
+      0.4990504954746161,
+      0.09193035442953454,
+      0.28892397106425144,
+      0.013132907775647792,
+      0.10506326220518233,
+      0.2757910632886036,
+      0.05253163110259117,
+      0.21012652441036467,
+      0.10506326220518233,
+      0.3414556021668426,
+      0.23639233996166029,
+      0.2757910632886036,
+      0.18386070885906908,
+      0.013132907775647792,
+      0.2757910632886036
+    ]
+  },
+  {
+    "id": 33,
+    "assessment": {
+      "assessment_name": ".NET MVC (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET MVC (New)"
+    },
+    "embedding": [
+      0.27299814907882386,
+      0.29119802568407877,
+      0.12739913623678445,
+      0.4003972853156083,
+      0.018199876605254923,
+      0.27299814907882386,
+      0.4367970385261181,
+      0.09099938302627461,
+      0.018199876605254923,
+      0.16379888944729432,
+      0.29119802568407877,
+      0.14559901284203938,
+      0.473196791736628,
+      0.18199876605254922,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 34,
+    "assessment": {
+      "assessment_name": ".NET MVVM (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET MVVM (New)"
+    },
+    "embedding": [
+      0.24349237677883698,
+      0.2597252018974261,
+      0.11362977583012392,
+      0.3571221526089609,
+      0.01623282511858913,
+      0.24349237677883698,
+      0.38958780284613914,
+      0.38958780284613914,
+      0.24349237677883698,
+      0.01623282511858913,
+      0.1460954260673022,
+      0.2597252018974261,
+      0.12986260094871305,
+      0.42205345308331743,
+      0.1623282511858913,
+      0
+    ]
+  },
+  {
+    "id": 35,
+    "assessment": {
+      "assessment_name": ".NET WCF (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET WCF (New)"
+    },
+    "embedding": [
+      0.2782074420373286,
+      0.2967546048398172,
+      0.12983013961742002,
+      0.4080375816547486,
+      0.018547162802488575,
+      0.4636790700622143,
+      0.09273581401244287,
+      0.1483773024199086,
+      0.018547162802488575,
+      0.16692446522239718,
+      0.2967546048398172,
+      0.1483773024199086,
+      0.48222623286470295,
+      0.18547162802488573,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 36,
+    "assessment": {
+      "assessment_name": ".NET WPF (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET WPF (New)"
+    },
+    "embedding": [
+      0.2649167997546862,
+      0.28257791973833196,
+      0.12362783988552023,
+      0.38854463964020647,
+      0.017661119983645748,
+      0.44152799959114364,
+      0.31790015970562346,
+      0.14128895986916598,
+      0.017661119983645748,
+      0.15895007985281173,
+      0.28257791973833196,
+      0.14128895986916598,
+      0.4591891195747894,
+      0.17661119983645746,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 37,
+    "assessment": {
+      "assessment_name": ".NET XAML (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": ".NET XAML (New)"
+    },
+    "embedding": [
+      0.2611560560310587,
+      0.2785664597664626,
+      0.12187282614782739,
+      0.3830288821788861,
+      0.017410403735403913,
+      0.4526704971205018,
+      0.05223121120621174,
+      0.2611560560310587,
+      0.24374565229565479,
+      0.017410403735403913,
+      0.15669363361863523,
+      0.2785664597664626,
+      0.1392832298832313,
+      0.4526704971205018,
+      0.17410403735403912,
+      0
+    ]
+  },
+  {
+    "id": 38,
+    "assessment": {
+      "assessment_name": "Accounts Payable (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Accounts Payable (New)"
+    },
+    "embedding": [
+      0.04747795383448982,
+      0.17804232687933683,
+      0.261128746089694,
+      0.3086066999241838,
+      0.5934744229311227,
+      0.3204761883828062,
+      0.27299823454831645,
+      0.261128746089694,
+      0.011869488458622455,
+      0.2136507922552042,
+      0.04747795383448982,
+      0.33234567684142874,
+      0.04747795383448982,
+      0.05934744229311227,
+      0.17804232687933683,
+      0.09495590766897964
+    ]
+  },
+  {
+    "id": 39,
+    "assessment": {
+      "assessment_name": "Accounts Payable Simulation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Accounts Payable Simulation (New)"
+    },
+    "embedding": [
+      0.12036360514096801,
+      0.232129809914724,
+      0.154753206609816,
+      0.29231161248520804,
+      0.41267521762617604,
+      0.275116811750784,
+      0.23212980991472404,
+      0.38688301652454005,
+      0.111766204773756,
+      0.30950641321963207,
+      0.180545407711452,
+      0.24932461064914802,
+      0.11176620477375601,
+      0.180545407711452,
+      0.19774020844587603,
+      0.29231161248520804
+    ]
+  },
+  {
+    "id": 40,
+    "assessment": {
+      "assessment_name": "Accounts Receivable (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Accounts Receivable (New)"
+    },
+    "embedding": [
+      0.08958280175293667,
+      0.2351548546014588,
+      0.15676990306763916,
+      0.2127591541632246,
+      0.36952905723086377,
+      0.36952905723086377,
+      0.3471333567926296,
+      0.53749681051762,
+      0.12317635241028793,
+      0.22395700438234167,
+      0.08958280175293667,
+      0.0671871013147025,
+      0.08958280175293667,
+      0.134374202629405,
+      0.27994625547792706,
+      0.04479140087646834
+    ]
+  },
+  {
+    "id": 41,
+    "assessment": {
+      "assessment_name": "Accounts Receivable Simulation (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Accounts Receivable Simulation (New)"
+    },
+    "embedding": [
+      0.19701273099093555,
+      0.2380570499473805,
+      0.3283545516515593,
+      0.2380570499473805,
+      0.3693988706080042,
+      0.23805704994738047,
+      0.3201456878602703,
+      0.3776077343992932,
+      0.13134182066062372,
+      0.19701273099093555,
+      0.25447477752995845,
+      0.14775954824320167,
+      0.21343045857351353,
+      0.23805704994738047,
+      0.2134304585735135,
+      0.10671522928675677
+    ]
+  },
+  {
+    "id": 42,
+    "assessment": {
+      "assessment_name": "ADO.NET (New)",
+      "assessment_url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "ADO.NET (New)"
+    },
+    "embedding": [
+      0.05969041269895041,
+      0.11938082539790082,
+      0.338245671960719,
+      0.29845206349475206,
+      0.3183488677277355,
+      0.13927762963088428,
+      0.43772969312563637,
+      0.01989680423298347,
+      0.17907123809685124,
+      0.3183488677277355,
+      0.15917443386386776,
+      0.5173169100575702,
+      0.1989680423298347,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 43,
+    "assessment": {
+      "assessment_name": "Product Catalog",
+      "assessment_url": "https://www.shl.com/products/product-catalog/",
+      "description": "",
+      "category": "Individual Test Solution",
+      "test_type": "O",
+      "combined_text": "Product Catalog"
+    },
+    "embedding": [
+      0.3036056437440336,
+      0.35420658436803915,
+      0.3036056437440336,
+      0.11806886145601306,
+      0.40480752499204475,
+      0.10120188124801119,
+      0.3879405447840429,
+      0.016866980208001866,
+      0.08433490104000932,
+      0.06746792083200746,
+      0.3879405447840429,
+      0.06746792083200746,
+      0.253004703120028,
+      0.3036056437440336,
+      0.16866980208001864,
+      0
+    ]
+  }
+]
